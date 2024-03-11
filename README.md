@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WiCoswig
 - 👀 I’m interested in VB.NET and P5.js coding.
-- 🌱 I’m currently learning Arduino programing
+- 🌱 I’m currently learning Arduino programming.
 - 💞️ I’m looking to collaborate on Programmierung von Schrittmotoren
 - 📫 How to reach me: github
 - 😄 Pronouns: Text in deutsch, englisch oder in denglisch.
