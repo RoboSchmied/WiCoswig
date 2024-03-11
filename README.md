@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WiCoswig
 - 👀 I’m interested in VB.NET and P5.js coding.
 - 🌱 I’m currently learning Arduino programming.
-- 💞️ I’m looking to collaborate on Programmierung von Schrittmotoren
+- 💞️ I’m looking to collaborate on programming of stepper motor drivers (Programmierung von Schrittmotoren).
 - 📫 How to reach me: github
 - 😄 Pronouns: Text in deutsch, englisch oder in denglisch.
 - ⚡ Fun fact: Mathematische Knobelaufgaben sind gut, wenn sie den Programmierer und den PC fordern.
